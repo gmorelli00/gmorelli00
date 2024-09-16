@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 
 ## 📊 Statistiche GitHub
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=lilsadboi&show_icons=true&theme=radical)
 
 ## 🌐 Seguimi sui social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tuo-profilo)

@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
 
 ## 📊 Statistiche GitHub
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=lilsadboi&show_icons=true&theme=radical)
+[![lilsadboi's github stats](https://github-readme-stats.vercel.app/api?username=lilsadboi&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![lilsadboi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilsadboi&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Seguimi sui social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tuo-profilo)

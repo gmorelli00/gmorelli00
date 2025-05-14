@@ -7,3 +7,13 @@
 <div>
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="afterWork" width="100%">
 </div>
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/gmorelli00/gmorelli00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmorelli00&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/gmorelli00/gmorelli00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmorelli00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giovanni's GitHub Stats" />
+</a>

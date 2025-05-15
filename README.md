@@ -26,3 +26,11 @@ I'm a full stack developer... ok, explanations are boring, <br/> let me show you
 <a href="https://github.com/gmorelli00/gmorelli00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmorelli00&theme=neon&show_icons=true&line_height=27&count_private=true" alt="Giovanni's GitHub Stats" />
 </a>
+
+
+<div>
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/gmorelli00/count.svg)
+</div>

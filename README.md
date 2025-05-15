@@ -4,7 +4,7 @@
 
 ## Who I am
 
-I'm a full stack developer... ok, I'm already bored with the explanations... <br/> I'll show it to you!
+I'm a full stack developer... ok, explanations are boring... <br/> Let me show you instead!
 
 ### This is me when I start working:
 <div>

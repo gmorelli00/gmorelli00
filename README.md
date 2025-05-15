@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Giovanni%20Morelli!&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 <div/>
 
-## Who I am
+## About me
 
 I'm a full stack developer... ok, explanations are boring, <br/> let me show you instead!
 

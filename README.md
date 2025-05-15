@@ -27,11 +27,11 @@ I'm a full stack developer and actually a 42's member... ok, explanations are bo
 ## GitHub Stats
 
 <a href="https://github.com/gmorelli00/gmorelli00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmorelli00&layout=compact&theme=neon"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmorelli00&theme=neon&show_icons=true&line_height=27&count_private=true" alt="Giovanni's GitHub Stats" />
 </a>
 <br/>
 <a href="https://github.com/gmorelli00/gmorelli00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmorelli00&theme=neon&show_icons=true&line_height=27&count_private=true" alt="Giovanni's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmorelli00&layout=compact&theme=neon"/>
 </a>
 
 

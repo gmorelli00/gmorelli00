@@ -4,14 +4,14 @@
 
 ## Who I am
 
-I'm a full stack developer...ok, I'm already bored with the explanations... <br/> I'll show it to you!
+I'm a full stack developer... ok, I'm already bored with the explanations... <br/> I'll show it to you!
 
-### this is me when I start working:
+### This is me when I start working:
 <div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWsyeXh1MTA3cjN2Y3VqaWwwbjMxZHBiY242emR4YTBndWc5OXp1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VcBiZpMlneysKpMh19/giphy.gif" alt="duringWork" width="100%">
 </div>
 
-### this is me when I finish work:
+### This is me when I finish work:
 <div>
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="afterWork" width="100%">
 </div>

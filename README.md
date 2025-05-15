@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a full stack developer... ok, explanations are boring, <br/> let me show you instead!
+I'm a full stack developer and actually a 42's member... ok, explanations are boring, <br/> let me show you instead!
 
 ### This is me when I start working:
 <div>
@@ -16,6 +16,13 @@ I'm a full stack developer... ok, explanations are boring, <br/> let me show you
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="afterWork" width="100%">
 </div>
 
+## My skill
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vim,vscode,c,cpp,cs,dotnet,py,django,css,html,js,ts,angular,postgres,postman" />
+  </a>
+</p>
 
 ## GitHub Stats
 
@@ -31,6 +38,6 @@ I'm a full stack developer... ok, explanations are boring, <br/> let me show you
 <div>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
+  
 ![Visitor Count](https://profile-counter.glitch.me/gmorelli00/count.svg)
 </div>

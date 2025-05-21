@@ -20,7 +20,7 @@ I'm a full stack developer and actually a 42 member... ok, explanations are bori
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vim,vscode,c,cpp,cs,dotnet,py,django,css,html,js,ts,angular,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,bash,vim,vscode,c,cpp,cs,dotnet,py,django,css,html,js,ts,angular,bootstrap,postgres,postman" />
   </a>
 </p>
 

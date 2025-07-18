@@ -38,6 +38,5 @@ I'm a full stack developer and actually a 42 member... ok, explanations are bori
 <div>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-  
-![Visitor Count](https://profile-counter.glitch.me/gmorelli00/count.svg)
+
 </div>
